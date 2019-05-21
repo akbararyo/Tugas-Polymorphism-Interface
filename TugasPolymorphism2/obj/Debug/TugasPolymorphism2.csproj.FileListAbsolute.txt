@@ -1,0 +1,6 @@
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.exe.config
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.exe
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.pdb
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.exe
+D:\18.11.2314\#8\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.pdb
